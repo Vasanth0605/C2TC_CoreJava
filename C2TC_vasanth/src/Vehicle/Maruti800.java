@@ -1,6 +1,6 @@
 package Vehicle;
 
-public class Maruti800 extends Car {
+public class Maruti800 extends Maruti {
 	public Maruti800() {
 		System.out.println("Maruti Model: 800");
 	}
